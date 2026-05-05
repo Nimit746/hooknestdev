@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl: 'https://hooknest.vercel.app',
-  generateRobotsTxt: true, // also generates robots.txt
+  siteUrl: 'https://hooknest.vercel.app', // ✅ changed from hooknest.dev
+  generateRobotsTxt: true,
   sitemapSize: 7000,
 }
