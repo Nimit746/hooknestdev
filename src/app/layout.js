@@ -20,6 +20,9 @@ export const metadata = {
     default: "HookNest — Production-ready React Hooks Library",
     template: "%s | HookNest"
   },
+   verification: {
+    google: "GXz4WvRiS2qjB9JtxV7rfb4Mv41GYNVumUsYfIDemTQ", // paste your actual content value here
+  },
   description: "A curated collection of production-ready custom React hooks designed for high-performance applications. Optimized for Next.js, TypeScript, and developer experience.",
   keywords: ["react hooks", "custom hooks", "hooknest", "react library", "next.js hooks", "typescript hooks", "performance", "web development", "frontend library"],
   authors: [{ name: "HookNest Team" }],
